@@ -1,7 +1,7 @@
 # Guess Number
 
 # Goal
-- To create a number guessing game with the help of some starter code from the Udemy course by Jonas Schmedtmann
+- To create a vanilla js number guessing game with the help of some starter code from the Udemy course by Jonas Schmedtmann
 - https://www.udemy.com/course/the-complete-javascript-course/
 
 # Functionality
